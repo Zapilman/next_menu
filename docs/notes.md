@@ -1,0 +1,3 @@
+- [x] Перед уроком 1: скаффолд Next — Юра; схема/сид SQLite — агент (`pnpm seed`)
+- [ ] Дальше [урок 1](/cursor/stores/self/docs/lessons/01-rsc-vs-client.md) — RSC vs Client
+- [x] [Брифинги 9 уроков](/cursor/stores/self/docs/lessons/README.md) готовы
